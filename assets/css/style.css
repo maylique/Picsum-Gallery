@@ -35,3 +35,11 @@ figure {
 figcaption {
     padding: .5rem;
 }
+
+button {
+    padding: .4rem .7rem;
+    border-radius: .6rem;
+    outline: none;
+    border: none;
+    background-color: pink;
+}
