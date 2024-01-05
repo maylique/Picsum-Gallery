@@ -13,7 +13,10 @@
 html {
     background-color: #323232;
     color: #fff;
-    margin: 0 3rem;
+}
+
+main {
+    margin: 3rem;
 }
 
 h1 {
@@ -48,4 +51,14 @@ button {
     outline: none;
     border: none;
     background-color: pink;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    color: black;
+    background-color: pink;
+    border-top-right-radius: 4rem;
+    border-top-left-radius: 4rem;
 }
